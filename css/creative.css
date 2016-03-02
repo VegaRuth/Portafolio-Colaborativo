@@ -1,0 +1,136 @@
+.naranja{
+	background-color: #FF3300;
+	background-size: 100% 100%;
+	height: 400px;
+}
+.titulo{
+	text-align: center;
+	color: white;
+	margin-top: 100px;
+
+}
+.roja{
+	width: 20px;
+	color: red;
+}
+.tex{
+	color: white;
+	text-align: center;
+}
+.centro{
+	text-align: center;
+	margin-top: 10%;
+	
+}
+.dos{
+	width: 30px;
+	border: red solid 1px;
+}
+.fa{
+	color: red;
+	text-align: center;
+	font-size: 50px;
+	margin-left: 35%;
+	margin-top: 30%;
+
+}
+
+.grow:hover{
+-webkit-transform: scale(1.3);
+-ms-transform: scale(1.3);
+transform: scale(1.3);
+}
+.fa::before { 
+   
+    color: red;
+    font-weight: bold;
+}
+.parra{
+	text-align: center;
+	color:#404040;
+	font-size: 17px;
+|	margin-bottom: 50%;
+
+}
+
+.titu{
+	text-align: center;
+	margin-top:20px;
+	color: #404040 ;
+
+}
+
+
+.color:hover
+{
+background:#53a7ea;
+}
+
+
+
+
+
+
+a{
+	text-decoration: none;
+
+}
+*{
+	font-family: 
+}
+/*PORTFOLIO*/
+#Portfolio{
+	margin-top:10%; 
+}
+.img-portfolio{
+	width:100%;
+	height: auto;
+	box-sizing: border-box;
+}
+.bt-git{
+
+	
+	height: auto;
+	padding: 1%;
+	border-radius: 25px;
+	margin-top: 2%;
+}
+
+.txt-white{
+	color: white;
+}
+.bg-white{
+	background-color: white;
+}
+.bg-gray{
+	background-color: #292829;
+}
+.txt-gray{
+	color: #292829;
+}
+.orange{
+	color:#f05f40;
+
+}
+.pd-10{
+	padding: 5%;
+}
+a :hover{
+	color:#f05f40;
+	font-weight: bold;
+	text-decoration: none;
+}
+.mg-0{
+	margin: 0%;
+}
+.pd-0{
+	padding-right: 0;
+    padding-left: 0;
+}
+
+.orage :hover{
+	font-weight: bold;
+	text-decoration: none;
+}
+
+

@@ -1,0 +1,58 @@
+header {
+    position: relative;
+    width: 100%;
+    min-height: auto;
+    text-align: center;
+    color: #fff;
+    background-image: url(../img/header.jpg);
+    background-position: center;
+    -webkit-background-size: cover;/*Duda*/
+    -moz-background-size: cover; /*Duda*/
+    background-size: cover;/*Duda*/
+    -o-background-size: cover;/*Duda*/
+}
+
+header .header-content {
+    position: relative;
+    width: 100%; 
+    padding: 150px 15px;/*El tamano de la imagen */
+    text-align: center;/*Posicion del texto */
+}
+
+header .header-content .header-content-interior h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 700;/*Grosor del texto */
+}
+header .header-content .header-content-interior hr {/*La etiqueta <hr> representa una línea horizontal para separar diferentes secciones de un documento */
+    margin: 30px auto;
+}
+
+header .header-content .header-content-interior p {
+    margin-bottom: 50px;
+    font-size: 16px;
+    font-weight: 300;/*DUDA cuando utilizar o minima de peso*/
+    color: rgba(255,255,255,.7);
+}
+/*button*/
+
+.button {
+    border: 0;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 700;
+}
+.btn-primary {
+    border-color: #f05f40;
+    color: #fff;
+    background-color: #f05f40;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+.btn-tamano {
+     padding: 15px 30px;
+}
+
